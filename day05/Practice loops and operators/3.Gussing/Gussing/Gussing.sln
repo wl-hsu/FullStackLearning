@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gussing", "Gussing\Gussing.csproj", "{BFDBCE08-F5A6-4820-BC4B-A64B8730FAC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFDBCE08-F5A6-4820-BC4B-A64B8730FAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDBCE08-F5A6-4820-BC4B-A64B8730FAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDBCE08-F5A6-4820-BC4B-A64B8730FAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDBCE08-F5A6-4820-BC4B-A64B8730FAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AE02958-1AEF-4F0D-B93E-2E76525D8040}
+	EndGlobalSection
+EndGlobal

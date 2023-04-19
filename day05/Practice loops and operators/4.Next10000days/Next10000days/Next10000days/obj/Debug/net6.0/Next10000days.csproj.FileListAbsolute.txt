@@ -1,0 +1,15 @@
+D:\桌面\antra\新增資料夾\Next10000days\Next10000days\Next10000days\bin\Debug\net6.0\Next10000days.exe
+D:\桌面\antra\新增資料夾\Next10000days\Next10000days\Next10000days\bin\Debug\net6.0\Next10000days.deps.json
+D:\桌面\antra\新增資料夾\Next10000days\Next10000days\Next10000days\bin\Debug\net6.0\Next10000days.runtimeconfig.json
+D:\桌面\antra\新增資料夾\Next10000days\Next10000days\Next10000days\bin\Debug\net6.0\Next10000days.dll
+D:\桌面\antra\新增資料夾\Next10000days\Next10000days\Next10000days\bin\Debug\net6.0\Next10000days.pdb
+D:\桌面\antra\新增資料夾\Next10000days\Next10000days\Next10000days\obj\Debug\net6.0\Next10000days.csproj.AssemblyReference.cache
+D:\桌面\antra\新增資料夾\Next10000days\Next10000days\Next10000days\obj\Debug\net6.0\Next10000days.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\antra\新增資料夾\Next10000days\Next10000days\Next10000days\obj\Debug\net6.0\Next10000days.AssemblyInfoInputs.cache
+D:\桌面\antra\新增資料夾\Next10000days\Next10000days\Next10000days\obj\Debug\net6.0\Next10000days.AssemblyInfo.cs
+D:\桌面\antra\新增資料夾\Next10000days\Next10000days\Next10000days\obj\Debug\net6.0\Next10000days.csproj.CoreCompileInputs.cache
+D:\桌面\antra\新增資料夾\Next10000days\Next10000days\Next10000days\obj\Debug\net6.0\Next10000days.dll
+D:\桌面\antra\新增資料夾\Next10000days\Next10000days\Next10000days\obj\Debug\net6.0\refint\Next10000days.dll
+D:\桌面\antra\新增資料夾\Next10000days\Next10000days\Next10000days\obj\Debug\net6.0\Next10000days.pdb
+D:\桌面\antra\新增資料夾\Next10000days\Next10000days\Next10000days\obj\Debug\net6.0\Next10000days.genruntimeconfig.cache
+D:\桌面\antra\新增資料夾\Next10000days\Next10000days\Next10000days\obj\Debug\net6.0\ref\Next10000days.dll

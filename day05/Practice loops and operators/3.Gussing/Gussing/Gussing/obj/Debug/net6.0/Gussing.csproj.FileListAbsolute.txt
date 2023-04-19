@@ -1,0 +1,15 @@
+D:\桌面\antra\新增資料夾\Gussing\Gussing\Gussing\bin\Debug\net6.0\Gussing.exe
+D:\桌面\antra\新增資料夾\Gussing\Gussing\Gussing\bin\Debug\net6.0\Gussing.deps.json
+D:\桌面\antra\新增資料夾\Gussing\Gussing\Gussing\bin\Debug\net6.0\Gussing.runtimeconfig.json
+D:\桌面\antra\新增資料夾\Gussing\Gussing\Gussing\bin\Debug\net6.0\Gussing.dll
+D:\桌面\antra\新增資料夾\Gussing\Gussing\Gussing\bin\Debug\net6.0\Gussing.pdb
+D:\桌面\antra\新增資料夾\Gussing\Gussing\Gussing\obj\Debug\net6.0\Gussing.csproj.AssemblyReference.cache
+D:\桌面\antra\新增資料夾\Gussing\Gussing\Gussing\obj\Debug\net6.0\Gussing.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\antra\新增資料夾\Gussing\Gussing\Gussing\obj\Debug\net6.0\Gussing.AssemblyInfoInputs.cache
+D:\桌面\antra\新增資料夾\Gussing\Gussing\Gussing\obj\Debug\net6.0\Gussing.AssemblyInfo.cs
+D:\桌面\antra\新增資料夾\Gussing\Gussing\Gussing\obj\Debug\net6.0\Gussing.csproj.CoreCompileInputs.cache
+D:\桌面\antra\新增資料夾\Gussing\Gussing\Gussing\obj\Debug\net6.0\Gussing.dll
+D:\桌面\antra\新增資料夾\Gussing\Gussing\Gussing\obj\Debug\net6.0\refint\Gussing.dll
+D:\桌面\antra\新增資料夾\Gussing\Gussing\Gussing\obj\Debug\net6.0\Gussing.pdb
+D:\桌面\antra\新增資料夾\Gussing\Gussing\Gussing\obj\Debug\net6.0\Gussing.genruntimeconfig.cache
+D:\桌面\antra\新增資料夾\Gussing\Gussing\Gussing\obj\Debug\net6.0\ref\Gussing.dll

@@ -1,0 +1,15 @@
+D:\桌面\antra\新增資料夾\print24\print24\print24\bin\Debug\net6.0\print24.exe
+D:\桌面\antra\新增資料夾\print24\print24\print24\bin\Debug\net6.0\print24.deps.json
+D:\桌面\antra\新增資料夾\print24\print24\print24\bin\Debug\net6.0\print24.runtimeconfig.json
+D:\桌面\antra\新增資料夾\print24\print24\print24\bin\Debug\net6.0\print24.dll
+D:\桌面\antra\新增資料夾\print24\print24\print24\bin\Debug\net6.0\print24.pdb
+D:\桌面\antra\新增資料夾\print24\print24\print24\obj\Debug\net6.0\print24.csproj.AssemblyReference.cache
+D:\桌面\antra\新增資料夾\print24\print24\print24\obj\Debug\net6.0\print24.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\antra\新增資料夾\print24\print24\print24\obj\Debug\net6.0\print24.AssemblyInfoInputs.cache
+D:\桌面\antra\新增資料夾\print24\print24\print24\obj\Debug\net6.0\print24.AssemblyInfo.cs
+D:\桌面\antra\新增資料夾\print24\print24\print24\obj\Debug\net6.0\print24.csproj.CoreCompileInputs.cache
+D:\桌面\antra\新增資料夾\print24\print24\print24\obj\Debug\net6.0\print24.dll
+D:\桌面\antra\新增資料夾\print24\print24\print24\obj\Debug\net6.0\refint\print24.dll
+D:\桌面\antra\新增資料夾\print24\print24\print24\obj\Debug\net6.0\print24.pdb
+D:\桌面\antra\新增資料夾\print24\print24\print24\obj\Debug\net6.0\print24.genruntimeconfig.cache
+D:\桌面\antra\新增資料夾\print24\print24\print24\obj\Debug\net6.0\ref\print24.dll

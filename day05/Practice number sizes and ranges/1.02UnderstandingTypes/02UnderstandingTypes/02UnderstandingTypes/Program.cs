@@ -1,0 +1,11 @@
+﻿Console.WriteLine("Size of sbyte is " +　sizeof(sbyte) +"byte "+ "sbyte minimum is " + sbyte.MinValue + " sbyte maximum is " + sbyte.MaxValue);
+Console.WriteLine("Size of byte is " + sizeof(byte) + "byte " + "byte minimum is " + byte.MinValue + " byte maximum is " + byte.MaxValue);
+Console.WriteLine("Size of short is " + sizeof(short) + "byte " + "short minimum is " + short.MinValue + " short maximum is " + short.MaxValue);
+Console.WriteLine("Size of ushort is " + sizeof(ushort) + "byte " + "ushort minimum is " + ushort.MinValue + " ushort maximum is " + ushort.MaxValue);
+Console.WriteLine("Size of int is " + sizeof(int) + "byte " + "int minimum is " + int.MinValue + " int maximum is " + int.MaxValue);
+Console.WriteLine("Size of uint is " + sizeof(uint) + "byte " + "uint minimum is " + uint.MinValue + " uint maximum is " + uint.MaxValue);
+Console.WriteLine("Size of long is " + sizeof(long) + "byte " + "long minimum is " + long.MinValue + " long maximum is " + long.MaxValue);
+Console.WriteLine("Size of ulong is " + sizeof(ulong) + "byte " + "ulong minimum is " + ulong.MinValue + " ulong maximum is " + ulong.MaxValue);
+Console.WriteLine("Size of float is " + sizeof(float) + "byte " + "float minimum is " + float.MinValue + " float maximum is " + float.MaxValue);
+Console.WriteLine("Size of double is " + sizeof(double) + "byte " + "double minimum is " + double.MinValue + " double maximum is " + double.MaxValue);
+Console.WriteLine("Size of decimal is " + sizeof(decimal) + "byte " + "decimal minimum is " + decimal.MinValue + " decimal maximum is " + decimal.MaxValue);

@@ -1,0 +1,15 @@
+D:\sideproject2\C#\test\CMS\CMS\bin\Debug\net6.0\CMS.exe
+D:\sideproject2\C#\test\CMS\CMS\bin\Debug\net6.0\CMS.deps.json
+D:\sideproject2\C#\test\CMS\CMS\bin\Debug\net6.0\CMS.runtimeconfig.json
+D:\sideproject2\C#\test\CMS\CMS\bin\Debug\net6.0\CMS.dll
+D:\sideproject2\C#\test\CMS\CMS\bin\Debug\net6.0\CMS.pdb
+D:\sideproject2\C#\test\CMS\CMS\obj\Debug\net6.0\CMS.csproj.AssemblyReference.cache
+D:\sideproject2\C#\test\CMS\CMS\obj\Debug\net6.0\CMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\sideproject2\C#\test\CMS\CMS\obj\Debug\net6.0\CMS.AssemblyInfoInputs.cache
+D:\sideproject2\C#\test\CMS\CMS\obj\Debug\net6.0\CMS.AssemblyInfo.cs
+D:\sideproject2\C#\test\CMS\CMS\obj\Debug\net6.0\CMS.csproj.CoreCompileInputs.cache
+D:\sideproject2\C#\test\CMS\CMS\obj\Debug\net6.0\CMS.dll
+D:\sideproject2\C#\test\CMS\CMS\obj\Debug\net6.0\refint\CMS.dll
+D:\sideproject2\C#\test\CMS\CMS\obj\Debug\net6.0\CMS.pdb
+D:\sideproject2\C#\test\CMS\CMS\obj\Debug\net6.0\CMS.genruntimeconfig.cache
+D:\sideproject2\C#\test\CMS\CMS\obj\Debug\net6.0\ref\CMS.dll

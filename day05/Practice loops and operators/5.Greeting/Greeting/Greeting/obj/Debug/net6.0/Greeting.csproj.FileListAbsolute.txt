@@ -1,0 +1,15 @@
+D:\桌面\antra\新增資料夾\Greeting\Greeting\Greeting\bin\Debug\net6.0\Greeting.exe
+D:\桌面\antra\新增資料夾\Greeting\Greeting\Greeting\bin\Debug\net6.0\Greeting.deps.json
+D:\桌面\antra\新增資料夾\Greeting\Greeting\Greeting\bin\Debug\net6.0\Greeting.runtimeconfig.json
+D:\桌面\antra\新增資料夾\Greeting\Greeting\Greeting\bin\Debug\net6.0\Greeting.dll
+D:\桌面\antra\新增資料夾\Greeting\Greeting\Greeting\bin\Debug\net6.0\Greeting.pdb
+D:\桌面\antra\新增資料夾\Greeting\Greeting\Greeting\obj\Debug\net6.0\Greeting.csproj.AssemblyReference.cache
+D:\桌面\antra\新增資料夾\Greeting\Greeting\Greeting\obj\Debug\net6.0\Greeting.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\antra\新增資料夾\Greeting\Greeting\Greeting\obj\Debug\net6.0\Greeting.AssemblyInfoInputs.cache
+D:\桌面\antra\新增資料夾\Greeting\Greeting\Greeting\obj\Debug\net6.0\Greeting.AssemblyInfo.cs
+D:\桌面\antra\新增資料夾\Greeting\Greeting\Greeting\obj\Debug\net6.0\Greeting.csproj.CoreCompileInputs.cache
+D:\桌面\antra\新增資料夾\Greeting\Greeting\Greeting\obj\Debug\net6.0\Greeting.dll
+D:\桌面\antra\新增資料夾\Greeting\Greeting\Greeting\obj\Debug\net6.0\refint\Greeting.dll
+D:\桌面\antra\新增資料夾\Greeting\Greeting\Greeting\obj\Debug\net6.0\Greeting.pdb
+D:\桌面\antra\新增資料夾\Greeting\Greeting\Greeting\obj\Debug\net6.0\Greeting.genruntimeconfig.cache
+D:\桌面\antra\新增資料夾\Greeting\Greeting\Greeting\obj\Debug\net6.0\ref\Greeting.dll

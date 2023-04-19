@@ -1,0 +1,15 @@
+D:\sideproject2\C#\CenturiesConverter\CenturiesConverter\CenturiesConverter\bin\Debug\net6.0\CenturiesConverter.exe
+D:\sideproject2\C#\CenturiesConverter\CenturiesConverter\CenturiesConverter\bin\Debug\net6.0\CenturiesConverter.deps.json
+D:\sideproject2\C#\CenturiesConverter\CenturiesConverter\CenturiesConverter\bin\Debug\net6.0\CenturiesConverter.runtimeconfig.json
+D:\sideproject2\C#\CenturiesConverter\CenturiesConverter\CenturiesConverter\bin\Debug\net6.0\CenturiesConverter.dll
+D:\sideproject2\C#\CenturiesConverter\CenturiesConverter\CenturiesConverter\bin\Debug\net6.0\CenturiesConverter.pdb
+D:\sideproject2\C#\CenturiesConverter\CenturiesConverter\CenturiesConverter\obj\Debug\net6.0\CenturiesConverter.csproj.AssemblyReference.cache
+D:\sideproject2\C#\CenturiesConverter\CenturiesConverter\CenturiesConverter\obj\Debug\net6.0\CenturiesConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\sideproject2\C#\CenturiesConverter\CenturiesConverter\CenturiesConverter\obj\Debug\net6.0\CenturiesConverter.AssemblyInfoInputs.cache
+D:\sideproject2\C#\CenturiesConverter\CenturiesConverter\CenturiesConverter\obj\Debug\net6.0\CenturiesConverter.AssemblyInfo.cs
+D:\sideproject2\C#\CenturiesConverter\CenturiesConverter\CenturiesConverter\obj\Debug\net6.0\CenturiesConverter.csproj.CoreCompileInputs.cache
+D:\sideproject2\C#\CenturiesConverter\CenturiesConverter\CenturiesConverter\obj\Debug\net6.0\CenturiesConverter.dll
+D:\sideproject2\C#\CenturiesConverter\CenturiesConverter\CenturiesConverter\obj\Debug\net6.0\refint\CenturiesConverter.dll
+D:\sideproject2\C#\CenturiesConverter\CenturiesConverter\CenturiesConverter\obj\Debug\net6.0\CenturiesConverter.pdb
+D:\sideproject2\C#\CenturiesConverter\CenturiesConverter\CenturiesConverter\obj\Debug\net6.0\CenturiesConverter.genruntimeconfig.cache
+D:\sideproject2\C#\CenturiesConverter\CenturiesConverter\CenturiesConverter\obj\Debug\net6.0\ref\CenturiesConverter.dll

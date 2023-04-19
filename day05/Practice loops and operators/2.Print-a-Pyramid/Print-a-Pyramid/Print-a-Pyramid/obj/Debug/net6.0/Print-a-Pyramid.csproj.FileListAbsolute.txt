@@ -1,0 +1,15 @@
+D:\桌面\antra\新增資料夾\Print-a-Pyramid\Print-a-Pyramid\Print-a-Pyramid\bin\Debug\net6.0\Print-a-Pyramid.exe
+D:\桌面\antra\新增資料夾\Print-a-Pyramid\Print-a-Pyramid\Print-a-Pyramid\bin\Debug\net6.0\Print-a-Pyramid.deps.json
+D:\桌面\antra\新增資料夾\Print-a-Pyramid\Print-a-Pyramid\Print-a-Pyramid\bin\Debug\net6.0\Print-a-Pyramid.runtimeconfig.json
+D:\桌面\antra\新增資料夾\Print-a-Pyramid\Print-a-Pyramid\Print-a-Pyramid\bin\Debug\net6.0\Print-a-Pyramid.dll
+D:\桌面\antra\新增資料夾\Print-a-Pyramid\Print-a-Pyramid\Print-a-Pyramid\bin\Debug\net6.0\Print-a-Pyramid.pdb
+D:\桌面\antra\新增資料夾\Print-a-Pyramid\Print-a-Pyramid\Print-a-Pyramid\obj\Debug\net6.0\Print-a-Pyramid.csproj.AssemblyReference.cache
+D:\桌面\antra\新增資料夾\Print-a-Pyramid\Print-a-Pyramid\Print-a-Pyramid\obj\Debug\net6.0\Print-a-Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\antra\新增資料夾\Print-a-Pyramid\Print-a-Pyramid\Print-a-Pyramid\obj\Debug\net6.0\Print-a-Pyramid.AssemblyInfoInputs.cache
+D:\桌面\antra\新增資料夾\Print-a-Pyramid\Print-a-Pyramid\Print-a-Pyramid\obj\Debug\net6.0\Print-a-Pyramid.AssemblyInfo.cs
+D:\桌面\antra\新增資料夾\Print-a-Pyramid\Print-a-Pyramid\Print-a-Pyramid\obj\Debug\net6.0\Print-a-Pyramid.csproj.CoreCompileInputs.cache
+D:\桌面\antra\新增資料夾\Print-a-Pyramid\Print-a-Pyramid\Print-a-Pyramid\obj\Debug\net6.0\Print-a-Pyramid.dll
+D:\桌面\antra\新增資料夾\Print-a-Pyramid\Print-a-Pyramid\Print-a-Pyramid\obj\Debug\net6.0\refint\Print-a-Pyramid.dll
+D:\桌面\antra\新增資料夾\Print-a-Pyramid\Print-a-Pyramid\Print-a-Pyramid\obj\Debug\net6.0\Print-a-Pyramid.pdb
+D:\桌面\antra\新增資料夾\Print-a-Pyramid\Print-a-Pyramid\Print-a-Pyramid\obj\Debug\net6.0\Print-a-Pyramid.genruntimeconfig.cache
+D:\桌面\antra\新增資料夾\Print-a-Pyramid\Print-a-Pyramid\Print-a-Pyramid\obj\Debug\net6.0\ref\Print-a-Pyramid.dll
