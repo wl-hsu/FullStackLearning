@@ -1,0 +1,15 @@
+D:\桌面\antra\FullStackLearning\assignment02\4.ReadAnArray\ReadAnArray\ReadAnArray\bin\Debug\net6.0\ReadAnArray.exe
+D:\桌面\antra\FullStackLearning\assignment02\4.ReadAnArray\ReadAnArray\ReadAnArray\bin\Debug\net6.0\ReadAnArray.deps.json
+D:\桌面\antra\FullStackLearning\assignment02\4.ReadAnArray\ReadAnArray\ReadAnArray\bin\Debug\net6.0\ReadAnArray.runtimeconfig.json
+D:\桌面\antra\FullStackLearning\assignment02\4.ReadAnArray\ReadAnArray\ReadAnArray\bin\Debug\net6.0\ReadAnArray.dll
+D:\桌面\antra\FullStackLearning\assignment02\4.ReadAnArray\ReadAnArray\ReadAnArray\bin\Debug\net6.0\ReadAnArray.pdb
+D:\桌面\antra\FullStackLearning\assignment02\4.ReadAnArray\ReadAnArray\ReadAnArray\obj\Debug\net6.0\ReadAnArray.csproj.AssemblyReference.cache
+D:\桌面\antra\FullStackLearning\assignment02\4.ReadAnArray\ReadAnArray\ReadAnArray\obj\Debug\net6.0\ReadAnArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\antra\FullStackLearning\assignment02\4.ReadAnArray\ReadAnArray\ReadAnArray\obj\Debug\net6.0\ReadAnArray.AssemblyInfoInputs.cache
+D:\桌面\antra\FullStackLearning\assignment02\4.ReadAnArray\ReadAnArray\ReadAnArray\obj\Debug\net6.0\ReadAnArray.AssemblyInfo.cs
+D:\桌面\antra\FullStackLearning\assignment02\4.ReadAnArray\ReadAnArray\ReadAnArray\obj\Debug\net6.0\ReadAnArray.csproj.CoreCompileInputs.cache
+D:\桌面\antra\FullStackLearning\assignment02\4.ReadAnArray\ReadAnArray\ReadAnArray\obj\Debug\net6.0\ReadAnArray.dll
+D:\桌面\antra\FullStackLearning\assignment02\4.ReadAnArray\ReadAnArray\ReadAnArray\obj\Debug\net6.0\refint\ReadAnArray.dll
+D:\桌面\antra\FullStackLearning\assignment02\4.ReadAnArray\ReadAnArray\ReadAnArray\obj\Debug\net6.0\ReadAnArray.pdb
+D:\桌面\antra\FullStackLearning\assignment02\4.ReadAnArray\ReadAnArray\ReadAnArray\obj\Debug\net6.0\ReadAnArray.genruntimeconfig.cache
+D:\桌面\antra\FullStackLearning\assignment02\4.ReadAnArray\ReadAnArray\ReadAnArray\obj\Debug\net6.0\ref\ReadAnArray.dll

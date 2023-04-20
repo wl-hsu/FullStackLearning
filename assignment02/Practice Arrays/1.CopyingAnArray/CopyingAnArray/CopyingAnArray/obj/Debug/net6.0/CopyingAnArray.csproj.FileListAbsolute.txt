@@ -1,0 +1,15 @@
+D:\桌面\antra\FullStackLearning\assignment02\1.CopyingAnArray\CopyingAnArray\CopyingAnArray\bin\Debug\net6.0\CopyingAnArray.exe
+D:\桌面\antra\FullStackLearning\assignment02\1.CopyingAnArray\CopyingAnArray\CopyingAnArray\bin\Debug\net6.0\CopyingAnArray.deps.json
+D:\桌面\antra\FullStackLearning\assignment02\1.CopyingAnArray\CopyingAnArray\CopyingAnArray\bin\Debug\net6.0\CopyingAnArray.runtimeconfig.json
+D:\桌面\antra\FullStackLearning\assignment02\1.CopyingAnArray\CopyingAnArray\CopyingAnArray\bin\Debug\net6.0\CopyingAnArray.dll
+D:\桌面\antra\FullStackLearning\assignment02\1.CopyingAnArray\CopyingAnArray\CopyingAnArray\bin\Debug\net6.0\CopyingAnArray.pdb
+D:\桌面\antra\FullStackLearning\assignment02\1.CopyingAnArray\CopyingAnArray\CopyingAnArray\obj\Debug\net6.0\CopyingAnArray.csproj.AssemblyReference.cache
+D:\桌面\antra\FullStackLearning\assignment02\1.CopyingAnArray\CopyingAnArray\CopyingAnArray\obj\Debug\net6.0\CopyingAnArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\antra\FullStackLearning\assignment02\1.CopyingAnArray\CopyingAnArray\CopyingAnArray\obj\Debug\net6.0\CopyingAnArray.AssemblyInfoInputs.cache
+D:\桌面\antra\FullStackLearning\assignment02\1.CopyingAnArray\CopyingAnArray\CopyingAnArray\obj\Debug\net6.0\CopyingAnArray.AssemblyInfo.cs
+D:\桌面\antra\FullStackLearning\assignment02\1.CopyingAnArray\CopyingAnArray\CopyingAnArray\obj\Debug\net6.0\CopyingAnArray.csproj.CoreCompileInputs.cache
+D:\桌面\antra\FullStackLearning\assignment02\1.CopyingAnArray\CopyingAnArray\CopyingAnArray\obj\Debug\net6.0\CopyingAnArray.dll
+D:\桌面\antra\FullStackLearning\assignment02\1.CopyingAnArray\CopyingAnArray\CopyingAnArray\obj\Debug\net6.0\refint\CopyingAnArray.dll
+D:\桌面\antra\FullStackLearning\assignment02\1.CopyingAnArray\CopyingAnArray\CopyingAnArray\obj\Debug\net6.0\CopyingAnArray.pdb
+D:\桌面\antra\FullStackLearning\assignment02\1.CopyingAnArray\CopyingAnArray\CopyingAnArray\obj\Debug\net6.0\CopyingAnArray.genruntimeconfig.cache
+D:\桌面\antra\FullStackLearning\assignment02\1.CopyingAnArray\CopyingAnArray\CopyingAnArray\obj\Debug\net6.0\ref\CopyingAnArray.dll

@@ -1,0 +1,15 @@
+D:\桌面\antra\FullStackLearning\assignment02\5.LongestSequence\LongestSequence\LongestSequence\bin\Debug\net6.0\LongestSequence.exe
+D:\桌面\antra\FullStackLearning\assignment02\5.LongestSequence\LongestSequence\LongestSequence\bin\Debug\net6.0\LongestSequence.deps.json
+D:\桌面\antra\FullStackLearning\assignment02\5.LongestSequence\LongestSequence\LongestSequence\bin\Debug\net6.0\LongestSequence.runtimeconfig.json
+D:\桌面\antra\FullStackLearning\assignment02\5.LongestSequence\LongestSequence\LongestSequence\bin\Debug\net6.0\LongestSequence.dll
+D:\桌面\antra\FullStackLearning\assignment02\5.LongestSequence\LongestSequence\LongestSequence\bin\Debug\net6.0\LongestSequence.pdb
+D:\桌面\antra\FullStackLearning\assignment02\5.LongestSequence\LongestSequence\LongestSequence\obj\Debug\net6.0\LongestSequence.csproj.AssemblyReference.cache
+D:\桌面\antra\FullStackLearning\assignment02\5.LongestSequence\LongestSequence\LongestSequence\obj\Debug\net6.0\LongestSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\antra\FullStackLearning\assignment02\5.LongestSequence\LongestSequence\LongestSequence\obj\Debug\net6.0\LongestSequence.AssemblyInfoInputs.cache
+D:\桌面\antra\FullStackLearning\assignment02\5.LongestSequence\LongestSequence\LongestSequence\obj\Debug\net6.0\LongestSequence.AssemblyInfo.cs
+D:\桌面\antra\FullStackLearning\assignment02\5.LongestSequence\LongestSequence\LongestSequence\obj\Debug\net6.0\LongestSequence.csproj.CoreCompileInputs.cache
+D:\桌面\antra\FullStackLearning\assignment02\5.LongestSequence\LongestSequence\LongestSequence\obj\Debug\net6.0\LongestSequence.dll
+D:\桌面\antra\FullStackLearning\assignment02\5.LongestSequence\LongestSequence\LongestSequence\obj\Debug\net6.0\refint\LongestSequence.dll
+D:\桌面\antra\FullStackLearning\assignment02\5.LongestSequence\LongestSequence\LongestSequence\obj\Debug\net6.0\LongestSequence.pdb
+D:\桌面\antra\FullStackLearning\assignment02\5.LongestSequence\LongestSequence\LongestSequence\obj\Debug\net6.0\LongestSequence.genruntimeconfig.cache
+D:\桌面\antra\FullStackLearning\assignment02\5.LongestSequence\LongestSequence\LongestSequence\obj\Debug\net6.0\ref\LongestSequence.dll

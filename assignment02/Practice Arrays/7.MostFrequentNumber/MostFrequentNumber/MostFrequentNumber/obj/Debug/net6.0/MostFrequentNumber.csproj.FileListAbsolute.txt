@@ -1,0 +1,15 @@
+D:\桌面\antra\FullStackLearning\assignment02\7.MostFrequentNumber\MostFrequentNumber\MostFrequentNumber\bin\Debug\net6.0\MostFrequentNumber.exe
+D:\桌面\antra\FullStackLearning\assignment02\7.MostFrequentNumber\MostFrequentNumber\MostFrequentNumber\bin\Debug\net6.0\MostFrequentNumber.deps.json
+D:\桌面\antra\FullStackLearning\assignment02\7.MostFrequentNumber\MostFrequentNumber\MostFrequentNumber\bin\Debug\net6.0\MostFrequentNumber.runtimeconfig.json
+D:\桌面\antra\FullStackLearning\assignment02\7.MostFrequentNumber\MostFrequentNumber\MostFrequentNumber\bin\Debug\net6.0\MostFrequentNumber.dll
+D:\桌面\antra\FullStackLearning\assignment02\7.MostFrequentNumber\MostFrequentNumber\MostFrequentNumber\bin\Debug\net6.0\MostFrequentNumber.pdb
+D:\桌面\antra\FullStackLearning\assignment02\7.MostFrequentNumber\MostFrequentNumber\MostFrequentNumber\obj\Debug\net6.0\MostFrequentNumber.csproj.AssemblyReference.cache
+D:\桌面\antra\FullStackLearning\assignment02\7.MostFrequentNumber\MostFrequentNumber\MostFrequentNumber\obj\Debug\net6.0\MostFrequentNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\antra\FullStackLearning\assignment02\7.MostFrequentNumber\MostFrequentNumber\MostFrequentNumber\obj\Debug\net6.0\MostFrequentNumber.AssemblyInfoInputs.cache
+D:\桌面\antra\FullStackLearning\assignment02\7.MostFrequentNumber\MostFrequentNumber\MostFrequentNumber\obj\Debug\net6.0\MostFrequentNumber.AssemblyInfo.cs
+D:\桌面\antra\FullStackLearning\assignment02\7.MostFrequentNumber\MostFrequentNumber\MostFrequentNumber\obj\Debug\net6.0\MostFrequentNumber.csproj.CoreCompileInputs.cache
+D:\桌面\antra\FullStackLearning\assignment02\7.MostFrequentNumber\MostFrequentNumber\MostFrequentNumber\obj\Debug\net6.0\MostFrequentNumber.dll
+D:\桌面\antra\FullStackLearning\assignment02\7.MostFrequentNumber\MostFrequentNumber\MostFrequentNumber\obj\Debug\net6.0\refint\MostFrequentNumber.dll
+D:\桌面\antra\FullStackLearning\assignment02\7.MostFrequentNumber\MostFrequentNumber\MostFrequentNumber\obj\Debug\net6.0\MostFrequentNumber.pdb
+D:\桌面\antra\FullStackLearning\assignment02\7.MostFrequentNumber\MostFrequentNumber\MostFrequentNumber\obj\Debug\net6.0\MostFrequentNumber.genruntimeconfig.cache
+D:\桌面\antra\FullStackLearning\assignment02\7.MostFrequentNumber\MostFrequentNumber\MostFrequentNumber\obj\Debug\net6.0\ref\MostFrequentNumber.dll

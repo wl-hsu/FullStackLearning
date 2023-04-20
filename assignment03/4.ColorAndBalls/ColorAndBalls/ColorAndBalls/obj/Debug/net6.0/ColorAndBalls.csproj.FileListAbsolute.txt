@@ -1,0 +1,15 @@
+D:\桌面\antra\FullStackLearning\day06\4.ColorAndBalls\ColorAndBalls\ColorAndBalls\bin\Debug\net6.0\ColorAndBalls.exe
+D:\桌面\antra\FullStackLearning\day06\4.ColorAndBalls\ColorAndBalls\ColorAndBalls\bin\Debug\net6.0\ColorAndBalls.deps.json
+D:\桌面\antra\FullStackLearning\day06\4.ColorAndBalls\ColorAndBalls\ColorAndBalls\bin\Debug\net6.0\ColorAndBalls.runtimeconfig.json
+D:\桌面\antra\FullStackLearning\day06\4.ColorAndBalls\ColorAndBalls\ColorAndBalls\bin\Debug\net6.0\ColorAndBalls.dll
+D:\桌面\antra\FullStackLearning\day06\4.ColorAndBalls\ColorAndBalls\ColorAndBalls\bin\Debug\net6.0\ColorAndBalls.pdb
+D:\桌面\antra\FullStackLearning\day06\4.ColorAndBalls\ColorAndBalls\ColorAndBalls\obj\Debug\net6.0\ColorAndBalls.csproj.AssemblyReference.cache
+D:\桌面\antra\FullStackLearning\day06\4.ColorAndBalls\ColorAndBalls\ColorAndBalls\obj\Debug\net6.0\ColorAndBalls.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\antra\FullStackLearning\day06\4.ColorAndBalls\ColorAndBalls\ColorAndBalls\obj\Debug\net6.0\ColorAndBalls.AssemblyInfoInputs.cache
+D:\桌面\antra\FullStackLearning\day06\4.ColorAndBalls\ColorAndBalls\ColorAndBalls\obj\Debug\net6.0\ColorAndBalls.AssemblyInfo.cs
+D:\桌面\antra\FullStackLearning\day06\4.ColorAndBalls\ColorAndBalls\ColorAndBalls\obj\Debug\net6.0\ColorAndBalls.csproj.CoreCompileInputs.cache
+D:\桌面\antra\FullStackLearning\day06\4.ColorAndBalls\ColorAndBalls\ColorAndBalls\obj\Debug\net6.0\ColorAndBalls.dll
+D:\桌面\antra\FullStackLearning\day06\4.ColorAndBalls\ColorAndBalls\ColorAndBalls\obj\Debug\net6.0\refint\ColorAndBalls.dll
+D:\桌面\antra\FullStackLearning\day06\4.ColorAndBalls\ColorAndBalls\ColorAndBalls\obj\Debug\net6.0\ColorAndBalls.pdb
+D:\桌面\antra\FullStackLearning\day06\4.ColorAndBalls\ColorAndBalls\ColorAndBalls\obj\Debug\net6.0\ColorAndBalls.genruntimeconfig.cache
+D:\桌面\antra\FullStackLearning\day06\4.ColorAndBalls\ColorAndBalls\ColorAndBalls\obj\Debug\net6.0\ref\ColorAndBalls.dll

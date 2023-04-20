@@ -1,0 +1,15 @@
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\1. ReverseString\ReverseString\ReverseString\bin\Debug\net6.0\ReverseString.exe
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\1. ReverseString\ReverseString\ReverseString\bin\Debug\net6.0\ReverseString.deps.json
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\1. ReverseString\ReverseString\ReverseString\bin\Debug\net6.0\ReverseString.runtimeconfig.json
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\1. ReverseString\ReverseString\ReverseString\bin\Debug\net6.0\ReverseString.dll
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\1. ReverseString\ReverseString\ReverseString\bin\Debug\net6.0\ReverseString.pdb
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\1. ReverseString\ReverseString\ReverseString\obj\Debug\net6.0\ReverseString.csproj.AssemblyReference.cache
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\1. ReverseString\ReverseString\ReverseString\obj\Debug\net6.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\1. ReverseString\ReverseString\ReverseString\obj\Debug\net6.0\ReverseString.AssemblyInfoInputs.cache
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\1. ReverseString\ReverseString\ReverseString\obj\Debug\net6.0\ReverseString.AssemblyInfo.cs
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\1. ReverseString\ReverseString\ReverseString\obj\Debug\net6.0\ReverseString.csproj.CoreCompileInputs.cache
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\1. ReverseString\ReverseString\ReverseString\obj\Debug\net6.0\ReverseString.dll
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\1. ReverseString\ReverseString\ReverseString\obj\Debug\net6.0\refint\ReverseString.dll
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\1. ReverseString\ReverseString\ReverseString\obj\Debug\net6.0\ReverseString.pdb
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\1. ReverseString\ReverseString\ReverseString\obj\Debug\net6.0\ReverseString.genruntimeconfig.cache
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\1. ReverseString\ReverseString\ReverseString\obj\Debug\net6.0\ref\ReverseString.dll

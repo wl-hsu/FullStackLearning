@@ -1,0 +1,15 @@
+D:\桌面\antra\FullStackLearning\assignment02\3.FindPrimes\FindPrimes\FindPrimes\bin\Debug\net6.0\FindPrimes.exe
+D:\桌面\antra\FullStackLearning\assignment02\3.FindPrimes\FindPrimes\FindPrimes\bin\Debug\net6.0\FindPrimes.deps.json
+D:\桌面\antra\FullStackLearning\assignment02\3.FindPrimes\FindPrimes\FindPrimes\bin\Debug\net6.0\FindPrimes.runtimeconfig.json
+D:\桌面\antra\FullStackLearning\assignment02\3.FindPrimes\FindPrimes\FindPrimes\bin\Debug\net6.0\FindPrimes.dll
+D:\桌面\antra\FullStackLearning\assignment02\3.FindPrimes\FindPrimes\FindPrimes\bin\Debug\net6.0\FindPrimes.pdb
+D:\桌面\antra\FullStackLearning\assignment02\3.FindPrimes\FindPrimes\FindPrimes\obj\Debug\net6.0\FindPrimes.csproj.AssemblyReference.cache
+D:\桌面\antra\FullStackLearning\assignment02\3.FindPrimes\FindPrimes\FindPrimes\obj\Debug\net6.0\FindPrimes.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\antra\FullStackLearning\assignment02\3.FindPrimes\FindPrimes\FindPrimes\obj\Debug\net6.0\FindPrimes.AssemblyInfoInputs.cache
+D:\桌面\antra\FullStackLearning\assignment02\3.FindPrimes\FindPrimes\FindPrimes\obj\Debug\net6.0\FindPrimes.AssemblyInfo.cs
+D:\桌面\antra\FullStackLearning\assignment02\3.FindPrimes\FindPrimes\FindPrimes\obj\Debug\net6.0\FindPrimes.csproj.CoreCompileInputs.cache
+D:\桌面\antra\FullStackLearning\assignment02\3.FindPrimes\FindPrimes\FindPrimes\obj\Debug\net6.0\FindPrimes.dll
+D:\桌面\antra\FullStackLearning\assignment02\3.FindPrimes\FindPrimes\FindPrimes\obj\Debug\net6.0\refint\FindPrimes.dll
+D:\桌面\antra\FullStackLearning\assignment02\3.FindPrimes\FindPrimes\FindPrimes\obj\Debug\net6.0\FindPrimes.pdb
+D:\桌面\antra\FullStackLearning\assignment02\3.FindPrimes\FindPrimes\FindPrimes\obj\Debug\net6.0\FindPrimes.genruntimeconfig.cache
+D:\桌面\antra\FullStackLearning\assignment02\3.FindPrimes\FindPrimes\FindPrimes\obj\Debug\net6.0\ref\FindPrimes.dll

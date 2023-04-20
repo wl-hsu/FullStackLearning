@@ -1,0 +1,15 @@
+D:\桌面\antra\FullStackLearning\assignment02\2.ManageAListOfElements\ManageAListOfElements\ManageAListOfElements\bin\Debug\net6.0\ManageAListOfElements.exe
+D:\桌面\antra\FullStackLearning\assignment02\2.ManageAListOfElements\ManageAListOfElements\ManageAListOfElements\bin\Debug\net6.0\ManageAListOfElements.deps.json
+D:\桌面\antra\FullStackLearning\assignment02\2.ManageAListOfElements\ManageAListOfElements\ManageAListOfElements\bin\Debug\net6.0\ManageAListOfElements.runtimeconfig.json
+D:\桌面\antra\FullStackLearning\assignment02\2.ManageAListOfElements\ManageAListOfElements\ManageAListOfElements\bin\Debug\net6.0\ManageAListOfElements.dll
+D:\桌面\antra\FullStackLearning\assignment02\2.ManageAListOfElements\ManageAListOfElements\ManageAListOfElements\bin\Debug\net6.0\ManageAListOfElements.pdb
+D:\桌面\antra\FullStackLearning\assignment02\2.ManageAListOfElements\ManageAListOfElements\ManageAListOfElements\obj\Debug\net6.0\ManageAListOfElements.csproj.AssemblyReference.cache
+D:\桌面\antra\FullStackLearning\assignment02\2.ManageAListOfElements\ManageAListOfElements\ManageAListOfElements\obj\Debug\net6.0\ManageAListOfElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\antra\FullStackLearning\assignment02\2.ManageAListOfElements\ManageAListOfElements\ManageAListOfElements\obj\Debug\net6.0\ManageAListOfElements.AssemblyInfoInputs.cache
+D:\桌面\antra\FullStackLearning\assignment02\2.ManageAListOfElements\ManageAListOfElements\ManageAListOfElements\obj\Debug\net6.0\ManageAListOfElements.AssemblyInfo.cs
+D:\桌面\antra\FullStackLearning\assignment02\2.ManageAListOfElements\ManageAListOfElements\ManageAListOfElements\obj\Debug\net6.0\ManageAListOfElements.csproj.CoreCompileInputs.cache
+D:\桌面\antra\FullStackLearning\assignment02\2.ManageAListOfElements\ManageAListOfElements\ManageAListOfElements\obj\Debug\net6.0\ManageAListOfElements.dll
+D:\桌面\antra\FullStackLearning\assignment02\2.ManageAListOfElements\ManageAListOfElements\ManageAListOfElements\obj\Debug\net6.0\refint\ManageAListOfElements.dll
+D:\桌面\antra\FullStackLearning\assignment02\2.ManageAListOfElements\ManageAListOfElements\ManageAListOfElements\obj\Debug\net6.0\ManageAListOfElements.pdb
+D:\桌面\antra\FullStackLearning\assignment02\2.ManageAListOfElements\ManageAListOfElements\ManageAListOfElements\obj\Debug\net6.0\ManageAListOfElements.genruntimeconfig.cache
+D:\桌面\antra\FullStackLearning\assignment02\2.ManageAListOfElements\ManageAListOfElements\ManageAListOfElements\obj\Debug\net6.0\ref\ManageAListOfElements.dll

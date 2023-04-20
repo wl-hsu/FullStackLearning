@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ManageAListOfElements/1.0.0": {
+        "runtime": {
+          "ManageAListOfElements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManageAListOfElements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

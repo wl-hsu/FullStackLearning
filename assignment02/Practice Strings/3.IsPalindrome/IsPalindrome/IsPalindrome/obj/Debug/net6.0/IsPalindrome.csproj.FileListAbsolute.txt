@@ -1,0 +1,15 @@
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\3.IsPalindrome\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.csproj.AssemblyReference.cache
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\3.IsPalindrome\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\3.IsPalindrome\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.AssemblyInfoInputs.cache
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\3.IsPalindrome\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.AssemblyInfo.cs
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\3.IsPalindrome\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.csproj.CoreCompileInputs.cache
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\3.IsPalindrome\IsPalindrome\IsPalindrome\bin\Debug\net6.0\IsPalindrome.exe
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\3.IsPalindrome\IsPalindrome\IsPalindrome\bin\Debug\net6.0\IsPalindrome.deps.json
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\3.IsPalindrome\IsPalindrome\IsPalindrome\bin\Debug\net6.0\IsPalindrome.runtimeconfig.json
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\3.IsPalindrome\IsPalindrome\IsPalindrome\bin\Debug\net6.0\IsPalindrome.dll
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\3.IsPalindrome\IsPalindrome\IsPalindrome\bin\Debug\net6.0\IsPalindrome.pdb
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\3.IsPalindrome\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.dll
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\3.IsPalindrome\IsPalindrome\IsPalindrome\obj\Debug\net6.0\refint\IsPalindrome.dll
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\3.IsPalindrome\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.pdb
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\3.IsPalindrome\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.genruntimeconfig.cache
+D:\桌面\antra\FullStackLearning\assignment02\Practice Strings\3.IsPalindrome\IsPalindrome\IsPalindrome\obj\Debug\net6.0\ref\IsPalindrome.dll
