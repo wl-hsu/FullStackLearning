@@ -11,22 +11,13 @@ namespace DesigningAndBuildingClasses
         string department;
         int identificationInDepartment;
         DateTime employeedDate;
-        
 
-        public override int CalculateAge()
-        {
-            throw new NotImplementedException();
-        }
 
         public decimal calculateBonoud(DateTime employeedDate)
         {
             throw new NotImplementedException();
         }
 
-        public override decimal CalculateSalary()
-        {
-            throw new NotImplementedException();
-        }
 
     }
 }

@@ -11,10 +11,6 @@ namespace DesigningAndBuildingClasses
     internal class Student : Person, IStudent
     {
         List<Integer> registeredCourseCode { get; set; }
-        public override int CalculateAge()
-        {
-            throw new NotImplementedException();
-        }
 
         public string CalculateGrade()
         {

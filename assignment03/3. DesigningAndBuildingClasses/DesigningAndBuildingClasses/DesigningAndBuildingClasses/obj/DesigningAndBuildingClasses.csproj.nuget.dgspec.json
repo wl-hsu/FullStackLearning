@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\桌面\\antra\\FullStackLearning\\day06\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses.csproj": {}
+    "D:\\桌面\\antra\\FullStackLearning\\assignment03\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses.csproj": {}
   },
   "projects": {
-    "D:\\桌面\\antra\\FullStackLearning\\day06\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses.csproj": {
+    "D:\\桌面\\antra\\FullStackLearning\\assignment03\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\桌面\\antra\\FullStackLearning\\day06\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses.csproj",
+        "projectUniqueName": "D:\\桌面\\antra\\FullStackLearning\\assignment03\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses.csproj",
         "projectName": "DesigningAndBuildingClasses",
-        "projectPath": "D:\\桌面\\antra\\FullStackLearning\\day06\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses.csproj",
+        "projectPath": "D:\\桌面\\antra\\FullStackLearning\\assignment03\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\桌面\\antra\\FullStackLearning\\day06\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\obj\\",
+        "outputPath": "D:\\桌面\\antra\\FullStackLearning\\assignment03\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\DesigningAndBuildingClasses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\shared\\NuGetPackages"

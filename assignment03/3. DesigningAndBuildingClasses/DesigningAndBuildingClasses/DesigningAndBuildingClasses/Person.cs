@@ -6,16 +6,21 @@ using System.Threading.Tasks;
 
 namespace DesigningAndBuildingClasses
 {
-    public abstract class Person
+    public abstract class Person: IPersonService
     {
+        DateTime Birthday { get; set; }
         List<string> addresses {  get; set; }
-        public abstract int CalculateAge();
-
-        public decimal CalculateSalary()
+        public int CalculateAge()
         {
-            decimal salary = 0;
+            return DateTime.Today.Year - Birthday.Year;
+        }
+
+        public  decimal CalculateSalary()
+        {
+            int salary = 1;
             return salary;
         }
+
 
 
     }
