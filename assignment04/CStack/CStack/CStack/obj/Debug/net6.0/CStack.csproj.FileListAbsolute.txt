@@ -1,0 +1,15 @@
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CStack\CStack\bin\Debug\net6.0\CStack.exe
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CStack\CStack\bin\Debug\net6.0\CStack.deps.json
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CStack\CStack\bin\Debug\net6.0\CStack.runtimeconfig.json
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CStack\CStack\bin\Debug\net6.0\CStack.dll
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CStack\CStack\bin\Debug\net6.0\CStack.pdb
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CStack\CStack\obj\Debug\net6.0\CStack.csproj.AssemblyReference.cache
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CStack\CStack\obj\Debug\net6.0\CStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CStack\CStack\obj\Debug\net6.0\CStack.AssemblyInfoInputs.cache
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CStack\CStack\obj\Debug\net6.0\CStack.AssemblyInfo.cs
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CStack\CStack\obj\Debug\net6.0\CStack.csproj.CoreCompileInputs.cache
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CStack\CStack\obj\Debug\net6.0\CStack.dll
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CStack\CStack\obj\Debug\net6.0\refint\CStack.dll
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CStack\CStack\obj\Debug\net6.0\CStack.pdb
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CStack\CStack\obj\Debug\net6.0\CStack.genruntimeconfig.cache
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CStack\CStack\obj\Debug\net6.0\ref\CStack.dll
