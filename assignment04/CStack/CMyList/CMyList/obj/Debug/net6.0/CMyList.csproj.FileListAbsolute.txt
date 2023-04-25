@@ -1,0 +1,15 @@
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CMyList\CMyList\bin\Debug\net6.0\CMyList.exe
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CMyList\CMyList\bin\Debug\net6.0\CMyList.deps.json
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CMyList\CMyList\bin\Debug\net6.0\CMyList.runtimeconfig.json
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CMyList\CMyList\bin\Debug\net6.0\CMyList.dll
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CMyList\CMyList\bin\Debug\net6.0\CMyList.pdb
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CMyList\CMyList\obj\Debug\net6.0\CMyList.csproj.AssemblyReference.cache
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CMyList\CMyList\obj\Debug\net6.0\CMyList.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CMyList\CMyList\obj\Debug\net6.0\CMyList.AssemblyInfoInputs.cache
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CMyList\CMyList\obj\Debug\net6.0\CMyList.AssemblyInfo.cs
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CMyList\CMyList\obj\Debug\net6.0\CMyList.csproj.CoreCompileInputs.cache
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CMyList\CMyList\obj\Debug\net6.0\CMyList.dll
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CMyList\CMyList\obj\Debug\net6.0\refint\CMyList.dll
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CMyList\CMyList\obj\Debug\net6.0\CMyList.pdb
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CMyList\CMyList\obj\Debug\net6.0\CMyList.genruntimeconfig.cache
+D:\桌面\antra\FullStackLearning\assignment04\CStack\CMyList\CMyList\obj\Debug\net6.0\ref\CMyList.dll
