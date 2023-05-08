@@ -1,0 +1,160 @@
+body {
+  margin: 0px;
+}
+.navbar {
+  background-color: #434343;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  margin: 0px;
+}
+
+.logo {
+  width: 260px;
+  padding-left: 30px;
+}
+
+.text-container {
+  text-align: right;
+  padding-top: 13px;
+  padding-right: 10px;
+}
+
+.text-container .top {
+  padding-right: 50px;
+}
+
+.text-container .top .notification {
+  padding-right: 20px;
+}
+
+.text-container div ul {
+  display: flex;
+}
+.text-container div ul li {
+  list-style: none;
+}
+.text-container div ul li a {
+  padding-right: 50px;
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+.text-container div ul li a:hover {
+  color: #e26237;
+}
+
+.user {
+  text-decoration: none;
+  color: white;
+}
+.user:hover {
+  color: #e26237;
+  cursor: pointer;
+}
+.dropdown {
+  overflow: hidden;
+  margin-right: 10px;
+  align-items: center;
+}
+.dropdown .dropbtn {
+  border: none;
+  outline: none;
+  color: white;
+
+  padding: inherit;
+  background-color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+
+  text-align: right;
+  margin-right: 0px;
+}
+.dropdown:hover .dropbtn {
+  color: #e26237;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background: #f9f9f9;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  width: 185px;
+  justify-content: center;
+  text-align: center;
+  text-decoration: none;
+  list-style: none;
+  background-color: #ddd;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.dropdown-content a:hover {
+  text-decoration: none;
+}
+
+.dropdown:hover .dropdown-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.search-container span {
+  position: absolute;
+  left: 180px;
+  top: 4px;
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background-image: url(./sprites.png);
+  background-position: -79px -69px;
+}
+
+.search-container {
+  height: 30px;
+  outline: 0;
+  margin-left: 10px;
+  display: inline-flex;
+  position: relative;
+}
+
+.search-container input {
+  margin-right: 20px;
+  width: 200px;
+}
+
+.search-button {
+  width: 25px;
+  height: 25px;
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.notification {
+  position: relative;
+  float: left;
+  margin-top: 5px;
+  margin-left: 600px;
+  width: 23px;
+  height: 23px;
+  background-image: url(./sprites.png);
+  background-position: -160px -70px;
+}
+
+.top .notification span {
+  position: absolute;
+  right: 13px;
+  top: -6px;
+  width: 20px;
+  height: 15px;
+  border-radius: 8px;
+  font-size: 13px;
+  color: #fff;
+  background-color: #e26237;
+  text-align: center;
+  line-height: 15px;
+}

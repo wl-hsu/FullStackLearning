@@ -1,0 +1,130 @@
+.footer-body {
+  display: flex;
+  position: fixed;
+  left: 0;
+  height: 420px;
+  width: 100%;
+  color: #ffffff;
+  bottom: 0px;
+  background-color: #272e31;
+  justify-content: center;
+}
+
+.info {
+  text-align: left;
+  line-height: 2em;
+  padding-right: 200px;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.service {
+  text-align: left;
+  flex-basis: 300px;
+  padding-right: 20px;
+}
+
+.resources {
+  text-align: left;
+  flex-basis: 300px;
+  padding-right: 30px;
+}
+
+.footer-body ul {
+  margin-top: -10px;
+  margin-left: -40px;
+}
+.footer-body li {
+  list-style: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+  border-bottom: 0.05em solid #272e31;
+  border-radius: 1px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-decoration: none;
+  color: white;
+}
+
+.footer-body li a {
+  text-decoration: none;
+  color: inherit;
+}
+.footer-body li a:hover {
+  color: #dddddd;
+}
+.footer-body li:last-child {
+  border: 0;
+}
+
+.location {
+  text-align: left;
+}
+
+.footer-bottom {
+  display: flex;
+  position: fixed;
+  left: 0;
+  height: 70px;
+  width: 100%;
+  color: white;
+  bottom: 0;
+  background-color: black;
+
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-bottom div {
+  display: flex;
+  justify-content: space-around;
+  white-space: nowrap;
+  overflow: hidden;
+  padding: 200px;
+}
+.footer-bottom div i {
+  padding: 20px;
+}
+.footer-bottom a {
+  color: white;
+}
+
+.fb {
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  background-image: url(./sprite.png);
+  /* size: 30px; */
+  background-position: -4px -4px;
+  background-size: 100px;
+  /* z-index: 1; */
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.twitter {
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  background-image: url(./sprite.png);
+  /* size: 30px; */
+  background-position: -38px -4px;
+  background-size: 100px;
+  /* z-index: 1; */
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.linkedin {
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  background-image: url(./sprite.png);
+  /* size: 30px; */
+  background-position: -4px -38px;
+  background-size: 100px;
+  /* z-index: 1; */
+  vertical-align: middle;
+  margin-right: 10px;
+}
