@@ -1,0 +1,15 @@
+D:\桌面\antra\C#\ProcessTasksAsTheyFinish\AsyncPractice\AsyncPractice\bin\Debug\net7.0\AsyncPractice.exe
+D:\桌面\antra\C#\ProcessTasksAsTheyFinish\AsyncPractice\AsyncPractice\bin\Debug\net7.0\AsyncPractice.deps.json
+D:\桌面\antra\C#\ProcessTasksAsTheyFinish\AsyncPractice\AsyncPractice\bin\Debug\net7.0\AsyncPractice.runtimeconfig.json
+D:\桌面\antra\C#\ProcessTasksAsTheyFinish\AsyncPractice\AsyncPractice\bin\Debug\net7.0\AsyncPractice.dll
+D:\桌面\antra\C#\ProcessTasksAsTheyFinish\AsyncPractice\AsyncPractice\bin\Debug\net7.0\AsyncPractice.pdb
+D:\桌面\antra\C#\ProcessTasksAsTheyFinish\AsyncPractice\AsyncPractice\obj\Debug\net7.0\AsyncPractice.csproj.AssemblyReference.cache
+D:\桌面\antra\C#\ProcessTasksAsTheyFinish\AsyncPractice\AsyncPractice\obj\Debug\net7.0\AsyncPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\antra\C#\ProcessTasksAsTheyFinish\AsyncPractice\AsyncPractice\obj\Debug\net7.0\AsyncPractice.AssemblyInfoInputs.cache
+D:\桌面\antra\C#\ProcessTasksAsTheyFinish\AsyncPractice\AsyncPractice\obj\Debug\net7.0\AsyncPractice.AssemblyInfo.cs
+D:\桌面\antra\C#\ProcessTasksAsTheyFinish\AsyncPractice\AsyncPractice\obj\Debug\net7.0\AsyncPractice.csproj.CoreCompileInputs.cache
+D:\桌面\antra\C#\ProcessTasksAsTheyFinish\AsyncPractice\AsyncPractice\obj\Debug\net7.0\AsyncPractice.dll
+D:\桌面\antra\C#\ProcessTasksAsTheyFinish\AsyncPractice\AsyncPractice\obj\Debug\net7.0\refint\AsyncPractice.dll
+D:\桌面\antra\C#\ProcessTasksAsTheyFinish\AsyncPractice\AsyncPractice\obj\Debug\net7.0\AsyncPractice.pdb
+D:\桌面\antra\C#\ProcessTasksAsTheyFinish\AsyncPractice\AsyncPractice\obj\Debug\net7.0\AsyncPractice.genruntimeconfig.cache
+D:\桌面\antra\C#\ProcessTasksAsTheyFinish\AsyncPractice\AsyncPractice\obj\Debug\net7.0\ref\AsyncPractice.dll
